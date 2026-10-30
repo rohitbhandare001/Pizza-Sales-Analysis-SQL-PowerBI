@@ -14,11 +14,11 @@ This project explores pizza sales performance through business KPIs, time-based 
 
 ## Power BI Dashboard Screenshots
 
-### Home Dashboard
-![Home Dashboard](Screenshot%202026-10-30%20185348.png)
-
 ### Best and Worst Sellers
 ![Best and Worst Sellers](Screenshot%202026-10-30%20185421.png)
+
+### Home Dashboard
+![Home Dashboard](Screenshot%202026-10-30%20185348.png)
 
 ## Repository structure
 
