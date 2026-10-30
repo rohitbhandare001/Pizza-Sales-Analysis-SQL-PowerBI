@@ -67,6 +67,14 @@ A screenshot of the Best & Worst Sellers page is available in `Documentation/`.
 - The category quantity query in the supplied analysis is filtered to February (`MONTH(order_date) = 2`).
 - Future improvements can include validating the measures against the source data, documenting the data model and adding business recommendations.
 
+## Power BI Dashboard Screenshots
+
+### Home Dashboard
+![Home Dashboard](Screenshot%202026-10-30%20185348.png)
+
+### Best and Worst Sellers
+![Best and Worst Sellers](Screenshot%202026-10-30%20185421.png)
+
 ## Author
 
 Rohit Bhandare
